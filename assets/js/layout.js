@@ -478,7 +478,7 @@
         <li><a href="${root}reparacion/" class="f-link">Reparación</a></li>
         <li><a href="${root}pulido/" class="f-link">Pulido</a></li>
         <li><a href="${root}mantenimiento/" class="f-link">Mantenimiento</a></li>
-        <li><a href="https://tiendalonati.com.ar" class="f-link" target="_blank" rel="noopener">Tienda NewConcret</a></li>
+        <li><a href="https://tiendanewconcret.com" class="f-link" target="_blank" rel="noopener">Tienda NewConcret</a></li>
         <li><a href="${root}assets/docs/catalogo-newconcret-2026.pdf" class="f-link" target="_blank">Catálogo (PDF)</a></li>
       </ul>
     </div>

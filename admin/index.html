@@ -194,7 +194,7 @@
                         </div>
                         <div class="form-group">
                             <label>Enlace a Tienda (URL Completa)</label>
-                            <input type="text" id="edit-shop" placeholder="https://tiendalonati.com.ar/productos/...">
+                            <input type="text" id="edit-shop" placeholder="https://tiendanewconcret.com/productos/...">
                         </div>
                     </div>
                     <div>
@@ -834,7 +834,7 @@ async function saveAll() {
         showToast('Error al guardar: ' + err.message, 'error');
         // Fallback: ofrecer descarga manual
         const json = JSON.stringify(currentProductList, null, 4);
-        const fullCode = `const STORE_BASE = 'https://tiendalonati.com.ar';\n\nconst productos = ${json};`;
+        const fullCode = `const STORE_BASE = 'https://tiendanewconcret.com';\n\nconst productos = ${json};`;
         const blob = new Blob([fullCode], { type: 'application/javascript' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
@@ -854,7 +854,7 @@ function copyExport() {
 
 function downloadExport() {
     const json = JSON.stringify(currentProductList, null, 4);
-    const fullCode = `const STORE_BASE = 'https://tiendalonati.com.ar';\n\nconst productos = ${json};`;
+    const fullCode = `const STORE_BASE = 'https://tiendanewconcret.com';\n\nconst productos = ${json};`;
     const blob = new Blob([fullCode], { type: 'application/javascript' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');

@@ -295,7 +295,7 @@ app.post('/api/save-productos', requireAuth, (req, res) => {
       '   Catalogo unificado de productos.',
       '*/',
       '',
-      "const STORE_BASE = 'https://tiendalonati.com.ar';",
+      "const STORE_BASE = 'https://tiendanewconcret.com';",
       '',
       `const productos = ${JSON.stringify(productos, null, 4)};`
     ].join('\n');

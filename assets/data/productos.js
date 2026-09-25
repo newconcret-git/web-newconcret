@@ -3,7 +3,7 @@
    Catalogo unificado de productos.
 */
 
-const STORE_BASE = 'https://tiendalonati.com.ar';
+const STORE_BASE = 'https://tiendanewconcret.com';
 
 const productos = [
     {
@@ -63,7 +63,7 @@ const productos = [
         "descripcion": "Segmentos con filos PCD en versiones Right y Left para la remoción agresiva de recubrimientos.",
         "imagen": "/assets/img/productos/epoxy-y-pcd-1778608255871.webp",
         "pdfUrl": "/assets/docs/metales-pcd-1779301993506.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metal-epoxy-poliuretano/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metal-epoxy-poliuretano/",
         "visible": true,
         "rutas": [
             {
@@ -113,7 +113,7 @@ const productos = [
         "descripcion": "Segmento metálico circular para remover epoxi, poliuretanos y pinturas de alta adherencia.",
         "imagen": "/assets/img/productos/circular-epoxy-2-1778608929665.webp",
         "pdfUrl": "/assets/docs/metales-pcd-1784565821117.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metal-epoxy-circular/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metal-epoxy-circular/",
         "visible": true,
         "rutas": [
             {
@@ -168,7 +168,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Segmento metálico trapezoidal para remover recubrimientos de alta adherencia con desgaste uniforme.",
         "imagen": "/assets/img/productos/epoxy-1778605387003.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metal-epoxy-trapezoidal/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metal-epoxy-trapezoidal/",
         "specs": [
             {
                 "icono": "◉",
@@ -218,7 +218,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Segmentos circulares de desbaste con diamante calibrado para nivelar y preparar el hormigón.",
         "imagen": "/assets/img/productos/circulares-8-2-1778604202928.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metales-circulares/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metales-circulares/",
         "specs": [
             {
                 "icono": "◉",
@@ -269,7 +269,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Lustradora monofásica de ultra alta velocidad para pulido, abrillantado y mantenimiento de pisos.",
         "imagen": "/assets/img/productos/tarseila-c1500-light-7-1773156559338.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/lustradora-tarsila-c1500-light/",
+        "storeUrl": "https://tiendanewconcret.com/productos/lustradora-tarsila-c1500-light/",
         "specs": [
             {
                 "icono": "◉",
@@ -335,7 +335,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Lustradora industrial de ultra alta velocidad para acabados de alto brillo sobre hormigón tratado.",
         "imagen": "/assets/img/productos/1500-nueva-1778598427788.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/tarsila-c1500/",
+        "storeUrl": "https://tiendanewconcret.com/productos/tarsila-c1500/",
         "specs": [
             {
                 "icono": "◉",
@@ -395,7 +395,7 @@ const productos = [
         "descripcion": "Lavasecapisos compacto con alimentación directa a 220 V, sin interrupciones por carga.",
         "imagen": "/assets/img/productos/mb460-1778600227857.webp",
         "pdfUrl": "/assets/docs/mb460-1778600234967.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/lavasecapisos-mb460/",
+        "storeUrl": "https://tiendanewconcret.com/productos/lavasecapisos-mb460/",
         "visible": true,
         "rutas": [
             {
@@ -461,7 +461,7 @@ const productos = [
         "descripcion": "Lavasecapisos a batería que limpia y seca en un solo paso, sin cables.",
         "imagen": "/assets/img/productos/mx3-1778601166341.webp",
         "pdfUrl": "/assets/docs/mx3-1778601171496.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/lavasecapisos-mx3/",
+        "storeUrl": "https://tiendanewconcret.com/productos/lavasecapisos-mx3/",
         "visible": true,
         "rutas": [
             {
@@ -527,7 +527,7 @@ const productos = [
         "descripcion": "Lavasecapisos a batería autopropulsada para limpieza intensiva a velocidad de trabajo constante.",
         "imagen": "/assets/img/productos/mx3-1778601543367.webp",
         "pdfUrl": "/assets/docs/mx3t-1778601462133.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/lavasecapisos-mx3t/",
+        "storeUrl": "https://tiendanewconcret.com/productos/lavasecapisos-mx3t/",
         "visible": true,
         "rutas": [
             {
@@ -593,7 +593,7 @@ const productos = [
         "descripcion": "Lavasecapisos ride-on de doble cepillo con tracción motorizada, para grandes superficies.",
         "imagen": "/assets/img/productos/mb135-1778674658727.webp",
         "pdfUrl": "/assets/docs/mb135-1778674667448.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/lavasecapisos-mb135/",
+        "storeUrl": "https://tiendanewconcret.com/productos/lavasecapisos-mb135/",
         "visible": true,
         "rutas": [
             {
@@ -754,7 +754,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora semiprofesional compacta con fondo magnético, para hormigón, mármol, terrazo y piedra.",
         "imagen": "/assets/img/productos/frida-400.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/frida-400/",
+        "storeUrl": "https://tiendanewconcret.com/productos/frida-400/",
         "specs": [
             {
                 "icono": "◉",
@@ -804,7 +804,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora semiprofesional de 4 cabezales con fondo magnético y rueda trasera dual.",
         "imagen": "/assets/img/productos/frida-450.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/frida-450/",
+        "storeUrl": "https://tiendanewconcret.com/productos/frida-450/",
         "specs": [
             {
                 "icono": "◉",
@@ -854,7 +854,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Film de polietileno negro que actúa como barrera hidrófuga bajo contrapisos y plateas.",
         "imagen": "/assets/img/productos/nylonnegro.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/nylon-negro/",
+        "storeUrl": "https://tiendanewconcret.com/productos/nylon-negro/",
         "specs": [
             {
                 "icono": "◉",
@@ -904,7 +904,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Endurecedor superficial no metálico que se aplica sobre hormigón fresco para lograr una capa monolítica antidesgaste.",
         "imagen": "/assets/img/productos/concretdur.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-dur/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-dur/",
         "specs": [
             {
                 "icono": "◉",
@@ -956,7 +956,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Grouting cementicio monocomponente de fraguado rápido para reparaciones estructurales.",
         "imagen": "/assets/img/productos/concretfix.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-fix/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-fix/",
         "specs": [
             {
                 "icono": "◉",
@@ -1038,7 +1038,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Mortero cementicio modificado con polímeros para reparar y nivelar hormigón; se pule sin desgranarse.",
         "imagen": "/assets/img/productos/concretmicrostrong.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-microstrong/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-microstrong/",
         "specs": [
             {
                 "icono": "◉",
@@ -1118,7 +1118,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Microfibra monofilamento de polipropileno que previene la fisuración plástica del hormigón.",
         "imagen": "/assets/img/productos/microfibra.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-micro-microfibra/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-micro-microfibra/",
         "specs": [
             {
                 "icono": "◉",
@@ -1168,7 +1168,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Macrofibra estructural de polipropileno que reemplaza total o parcialmente la malla electrosoldada.",
         "imagen": "/assets/img/productos/macrofibra.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-fibra-macrofibra/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-fibra-macrofibra/",
         "specs": [
             {
                 "icono": "◉",
@@ -1218,7 +1218,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aditivo superficial que facilita el llaneado y mejora la crema del hormigón sin agregar agua.",
         "imagen": "/assets/img/productos/concret-one-5-1777919261199.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-one/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-one/",
         "specs": [
             {
                 "icono": "◉",
@@ -1268,7 +1268,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Curador de membrana listo para usar que forma una película flexible y evita la evaporación brusca del agua.",
         "imagen": "/assets/img/productos/scudo-5-1777920808015.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-scudo/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-scudo/",
         "specs": [
             {
                 "icono": "◉",
@@ -1320,7 +1320,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aglutinante líquido que, mezclado con el polvo del pulido, sella fisuras, poros y pequeños huecos.",
         "imagen": "/assets/img/productos/5-l-1777920757894.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-restor/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-restor/",
         "specs": [
             {
                 "icono": "◉",
@@ -1417,7 +1417,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aglutinante líquido listo para usar; es el componente B del sistema Concret MicroStrong.",
         "imagen": "/assets/img/productos/strong-5-1777920959883.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-strong/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-strong/",
         "specs": [
             {
                 "icono": "◉",
@@ -1503,7 +1503,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Sellador poliuretánico monocomponente y tixotrópico para juntas de dilatación, con elasticidad permanente.",
         "imagen": "/assets/img/productos/sellador-newconcret-1777921719643.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/sellador-poliuretanico/",
+        "storeUrl": "https://tiendanewconcret.com/productos/sellador-poliuretanico/",
         "specs": [
             {
                 "icono": "◉",
@@ -1558,7 +1558,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Allanadora a motor Honda para alisar y compactar el hormigón fresco apenas terminado el vertido.",
         "imagen": "/assets/img/productos/allanadora.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/allanadora/",
+        "storeUrl": "https://tiendanewconcret.com/productos/allanadora/",
         "specs": [
             {
                 "icono": "◉",
@@ -1608,7 +1608,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Plato con velcro industrial de 33 cm que habilita lustre, limpieza y micropulido con la allanadora.",
         "imagen": "/assets/img/productos/discos-allanadora.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-para-pulido-para-allanadora/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-para-pulido-para-allanadora/",
         "specs": [
             {
                 "icono": "◉",
@@ -1658,7 +1658,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Escarificadora para quitar recubrimientos y marcas de hormigón y asfalto, dejando la superficie apta para pulir.",
         "imagen": "/assets/img/productos/jackson-10-1777921631842.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/jackson-101/",
+        "storeUrl": "https://tiendanewconcret.com/productos/jackson-101/",
         "specs": [
             {
                 "icono": "◉",
@@ -1708,7 +1708,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Escarificadora con desplazamiento automático para nivelar y quitar recubrimientos en hormigón y asfalto.",
         "imagen": "/assets/img/productos/jackson-15-1777921639477.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/jackson-151/",
+        "storeUrl": "https://tiendanewconcret.com/productos/jackson-151/",
         "specs": [
             {
                 "icono": "◉",
@@ -1756,7 +1756,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Carcasa con salida para aspiradora que contiene el polvo al desbastar con amoladora.",
         "imagen": "/assets/img/productos/carcasa-antipolvo.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/carcasa-antipolvo-para-amoladora/",
+        "storeUrl": "https://tiendanewconcret.com/productos/carcasa-antipolvo-para-amoladora/",
         "specs": [
             {
                 "icono": "◉",
@@ -1955,7 +1955,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Respaldo con velcro industrial para fijar discos resinoides en la amoladora.",
         "imagen": "/assets/img/productos/respaldo-amoladora.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/respaldo-de-amoladoras/",
+        "storeUrl": "https://tiendanewconcret.com/productos/respaldo-de-amoladoras/",
         "specs": [
             {
                 "icono": "◉",
@@ -2005,7 +2005,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Resguardo de altura regulable para disco de corte de 125 mm; desvía chispas y partículas del operador.",
         "imagen": "/assets/img/productos/carcasa-corte.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/carcasa-para-corte/",
+        "storeUrl": "https://tiendanewconcret.com/productos/carcasa-para-corte/",
         "specs": [
             {
                 "icono": "◉",
@@ -2055,7 +2055,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital compacta con tanque de agua y fondo magnético, para hogares y obras medianas.",
         "imagen": "/assets/img/productos/chavela-550.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-550s/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-550s/",
         "specs": [
             {
                 "icono": "◉",
@@ -2105,7 +2105,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital de entrada al segmento industrial, con tanque de agua y fondo magnético.",
         "imagen": "/assets/img/productos/chavela-680.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-680/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-680/",
         "specs": [
             {
                 "icono": "◉",
@@ -2155,7 +2155,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital industrial de 20 HP con desplazamiento regulable y fondo magnético.",
         "imagen": "/assets/img/productos/chavela-750.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-750/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-750/",
         "specs": [
             {
                 "icono": "◉",
@@ -2205,7 +2205,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital industrial de 20 HP con control remoto, para trabajos de gran escala.",
         "imagen": "/assets/img/productos/chavela-750cr.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-750cr/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-750cr/",
         "specs": [
             {
                 "icono": "◉",
@@ -2255,7 +2255,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital industrial para grandes superficies, con tanque de agua y fondo magnético.",
         "imagen": "/assets/img/productos/chavela-850.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-850/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-850/",
         "specs": [
             {
                 "icono": "◉",
@@ -2305,7 +2305,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital de 30 HP con control remoto, para pisos extremadamente planos en alta productividad.",
         "imagen": "/assets/img/productos/chavela-900.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-900/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-900/",
         "specs": [
             {
                 "icono": "◉",
@@ -2355,7 +2355,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Pulidora satelital bimotor con control remoto, para desbaste y pulido en grandes superficies industriales.",
         "imagen": "/assets/img/productos/chavela-1366.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/chavela-1366/",
+        "storeUrl": "https://tiendanewconcret.com/productos/chavela-1366/",
         "specs": [
             {
                 "icono": "◉",
@@ -2405,7 +2405,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Segmentos trapezoidales de doble segmento para el desbaste y afinado progresivo del hormigón.",
         "imagen": "/assets/img/productos/1-1778604259666.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metales-alto-rendimiento/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metales-alto-rendimiento/",
         "specs": [
             {
                 "icono": "◉",
@@ -2455,7 +2455,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Línea económica de segmentos trapezoidales para desbaste y preparación en toda la escala de granos.",
         "imagen": "/assets/img/productos/grano-30-2-1778604302525.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/metales-eco/",
+        "storeUrl": "https://tiendanewconcret.com/productos/metales-eco/",
         "specs": [
             {
                 "icono": "◉",
@@ -2500,7 +2500,7 @@ const productos = [
         "descripcion": "Disco resinoide de 15 mm de espesor para pulido de alto rendimiento con contacto constante.",
         "imagen": "/assets/img/productos/resinas-15mm-grano-50-2-1778610727067.webp",
         "pdfUrl": "/assets/docs/resinas-15-1784566889822.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-resinoide-15mm/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-resinoide-15mm/",
         "visible": true,
         "rutas": [
             {
@@ -2555,7 +2555,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco resinoide de 12 mm de espesor, el más robusto de la línea, para máxima vida útil en pulido.",
         "imagen": "/assets/img/productos/metal-epoxy-trapezoidal-2-1778609116513.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-resinoide-12mm/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-resinoide-12mm/",
         "specs": [
             {
                 "icono": "◉",
@@ -2605,7 +2605,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco resinoide de 8 mm de espesor para pulido intermedio y de terminación, en seco o húmedo.",
         "imagen": "/assets/img/productos/grano-30-1778605279602.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-resinoides-100-8-espesor/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-resinoides-100-8-espesor/",
         "specs": [
             {
                 "icono": "◉",
@@ -2650,7 +2650,7 @@ const productos = [
         "descripcion": "Disco resinoide fino y flexible para las etapas finales de pulido y abrillantado.",
         "imagen": "/assets/img/productos/grano-400-1778610389925.webp",
         "pdfUrl": "/assets/docs/resinas-3-1784566921326.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-resinoides-3mm/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-resinoides-3mm/",
         "visible": true,
         "rutas": [
             {
@@ -2705,7 +2705,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Sistema de tres paños diamantados para el micropulido progresivo previo al abrillantado.",
         "imagen": "/assets/img/productos/3-pasos-2-1778605551012.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/panos-diamantados1/",
+        "storeUrl": "https://tiendanewconcret.com/productos/panos-diamantados1/",
         "specs": [
             {
                 "icono": "◉",
@@ -2750,7 +2750,7 @@ const productos = [
         "descripcion": "Pads diamantados con base de esponja para retoques manuales en orillas, mesadas y esquinas.",
         "imagen": "/assets/img/productos/espnoja-manual-grano-100-1778611557051.webp",
         "pdfUrl": "/assets/docs/esponjas-1784566942049.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/pads-manuales/",
+        "storeUrl": "https://tiendanewconcret.com/productos/pads-manuales/",
         "visible": true,
         "rutas": [
             {
@@ -2805,7 +2805,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Mecha copa diamantada para perforar hormigón, piedra y cerámica con mínima vibración.",
         "imagen": "/assets/img/productos/mecha-copa-45mm-1784565295486.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/mecha-copa-diamantada/",
+        "storeUrl": "https://tiendanewconcret.com/productos/mecha-copa-diamantada/",
         "specs": [
             {
                 "icono": "◉",
@@ -2856,7 +2856,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco diamantado con puntas PCD para remover epoxi, adhesivos y pinturas con amoladora.",
         "imagen": "/assets/img/productos/epoxi-amoladora.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/diamantado-epoxy-para-amoladora-5aq8s/",
+        "storeUrl": "https://tiendanewconcret.com/productos/diamantado-epoxy-para-amoladora-5aq8s/",
         "specs": [
             {
                 "icono": "◉",
@@ -2922,7 +2922,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco diamantado de 125 mm para desbaste y nivelación donde no llega la pulidora de piso.",
         "imagen": "/assets/img/productos/metal-amoladora.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/disco-diamantado-amoladora/",
+        "storeUrl": "https://tiendanewconcret.com/productos/disco-diamantado-amoladora/",
         "specs": [
             {
                 "icono": "◉",
@@ -2988,7 +2988,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco flap de carburo de silicio para desbaste y pulido en bordes, zócalos y zonas de difícil acceso.",
         "imagen": "/assets/img/productos/disco-flap.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-flap/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-flap/",
         "specs": [
             {
                 "icono": "◉",
@@ -3043,7 +3043,7 @@ const productos = [
         "descripcion": "Disco resinoide de 180 mm y 3 mm de espesor: flexible para curvas, bordes y zonas irregulares.",
         "imagen": "/assets/img/productos/grano-800-1779290401067.webp",
         "pdfUrl": "/assets/docs/resinas-180-1784566970662.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-resinoides-180/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-resinoides-180/",
         "visible": true,
         "rutas": [
             {
@@ -3114,7 +3114,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Ruedas con puntas de carburo y diamante para escarificar y texturizar hormigón y piedra.",
         "imagen": "/assets/img/productos/ruedas-bujardado.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/ruedas-de-bujardado/",
+        "storeUrl": "https://tiendanewconcret.com/productos/ruedas-de-bujardado/",
         "specs": [
             {
                 "icono": "◉",
@@ -3164,7 +3164,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Cabezal portaruedas que monta las ruedas de bujardado en pulidoras NewConcret.",
         "imagen": "/assets/img/productos/bujardado.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/ruedas-de-bujardado/",
+        "storeUrl": "https://tiendanewconcret.com/productos/ruedas-de-bujardado/",
         "specs": [
             {
                 "icono": "◉",
@@ -3215,7 +3215,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Preseparador ciclónico que captura hasta el 90% del polvo antes de la aspiradora y alarga la vida del filtro.",
         "imagen": "/assets/img/productos/ciclon-2-1779469259240.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/ciclon-preseparador/",
+        "storeUrl": "https://tiendanewconcret.com/productos/ciclon-preseparador/",
         "specs": [
             {
                 "icono": "◉",
@@ -3281,7 +3281,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora industrial monofásica de alto caudal para pulido, desbaste y mantenimiento.",
         "imagen": "/assets/img/productos/gala-b301-4-1778599236971.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-industrial-gala-b301/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-industrial-gala-b301/",
         "specs": [
             {
                 "icono": "◉",
@@ -3347,7 +3347,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora monofásica con embolsado continuo y filtración HEPA, para mantenimiento diario y obras medianas.",
         "imagen": "/assets/img/productos/d301-roja-1779469269910.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-industrial-gala-d301/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-industrial-gala-d301/",
         "specs": [
             {
                 "icono": "◉",
@@ -3413,7 +3413,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora trifásica compacta con filtración HEPA: potencia industrial en un formato manejable.",
         "imagen": "/assets/img/productos/js400-1778598667668.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-industrial-gala-js400/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-industrial-gala-js400/",
         "specs": [
             {
                 "icono": "◉",
@@ -3479,7 +3479,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora trifásica de uso continuo, con turbina acoplada al motor y gran área de filtrado.",
         "imagen": "/assets/img/productos/g551-roja-1779469281846.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-industrial-gala-g551/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-industrial-gala-g551/",
         "specs": [
             {
                 "icono": "◉",
@@ -3545,7 +3545,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora trifásica con HEPA y bolsa continua para la captación segura de polvo ultrafino.",
         "imagen": "/assets/img/productos/w552-1779469292469.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-industrial-gala-w552/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-industrial-gala-w552/",
         "specs": [
             {
                 "icono": "◉",
@@ -3611,7 +3611,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora trifásica con ciclón preseparador integrado: menos saturación del filtro y más autonomía.",
         "imagen": "/assets/img/productos/sw551-roja-1778598895574.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-gala-sw551/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-gala-sw551/",
         "specs": [
             {
                 "icono": "◉",
@@ -3671,7 +3671,7 @@ const productos = [
         "descripcion": "Aplicador con cabo extensible y mopa de microfibra para extender densificadores y selladores de forma uniforme.",
         "imagen": "/assets/img/productos/kit-mopa-2-1779285095682.webp",
         "pdfUrl": "/assets/docs/aplicador-1784567004869.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aplicador-para-pisos/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aplicador-para-pisos/",
         "visible": true,
         "rutas": [
             {
@@ -3721,7 +3721,7 @@ const productos = [
         "descripcion": "Pulverizador a presión de 10 litros con lanza de acero inoxidable y boquilla regulable.",
         "imagen": "/assets/img/productos/pulverizador-2-1779285159180.webp",
         "pdfUrl": "/assets/docs/pulverizador-1784567014987.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/pulverizador/",
+        "storeUrl": "https://tiendanewconcret.com/productos/pulverizador/",
         "visible": true,
         "rutas": [
             {
@@ -3771,7 +3771,7 @@ const productos = [
         "descripcion": "Paño de lustre de 20” en fibras sintéticas de alta densidad para lustrado, lavado y mantenimiento.",
         "imagen": "/assets/img/productos/pao-rojo-1778612094107.webp",
         "pdfUrl": "/assets/docs/paos-lavado-1784567028420.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/pano-de-20/",
+        "storeUrl": "https://tiendanewconcret.com/productos/pano-de-20/",
         "visible": true,
         "rutas": [
             {
@@ -3837,7 +3837,7 @@ const productos = [
         "descripcion": "Paño de lustre de 17” en fibras sintéticas de alta densidad; la abrasividad varía según el color.",
         "imagen": "/assets/img/productos/pao-blanco-1778611869906.webp",
         "pdfUrl": "/assets/docs/paos-lavado-1784567036632.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/panos-lustre/",
+        "storeUrl": "https://tiendanewconcret.com/productos/panos-lustre/",
         "visible": true,
         "rutas": [
             {
@@ -3908,7 +3908,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Extensión metálica curva que mejora el alcance y la ergonomía del cepillo barredor.",
         "imagen": "/assets/img/productos/extension-aspiradora-1778613659418.png",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-extension-curva/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-extension-curva/",
         "specs": [
             {
                 "icono": "◉",
@@ -3948,7 +3948,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Cepillo barredor con base rodante para recolectar polvo en superficies amplias sin esfuerzo.",
         "imagen": "/assets/img/productos/cepillo-1778613646978.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/cepillo-barredor-para-asiradora/",
+        "storeUrl": "https://tiendanewconcret.com/productos/cepillo-barredor-para-asiradora/",
         "specs": [
             {
                 "icono": "◉",
@@ -3988,7 +3988,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Manguera de PVC con interior liso que maximiza el caudal de aire y evita obstrucciones.",
         "imagen": "/assets/img/productos/manguera-aspiradora-1778613632365.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/manguera-de-aspiracion-pvc-4umte/",
+        "storeUrl": "https://tiendanewconcret.com/productos/manguera-de-aspiracion-pvc-4umte/",
         "specs": [
             {
                 "icono": "◉",
@@ -4028,7 +4028,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Bifurcación metálica que divide la línea de aspiración de 50 mm en dos salidas de 40 mm.",
         "imagen": "https://acdn.mitiendanube.com/stores/003/469/628/products/bifurcacion-8cd7ec039f0771391217310967788401-480-0.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/bifurcacion-metalica-mc75/",
+        "storeUrl": "https://tiendanewconcret.com/productos/bifurcacion-metalica-mc75/",
         "specs": [
             {
                 "icono": "◉",
@@ -4068,7 +4068,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Terminales de acople entre la manguera de aspiración y los accesorios del equipo.",
         "imagen": "/assets/img/productos/adaptadores-de-manguera-1778613607167.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/terminales-para-manguera-mc-75/",
+        "storeUrl": "https://tiendanewconcret.com/productos/terminales-para-manguera-mc-75/",
         "specs": [
             {
                 "icono": "◉",
@@ -4108,7 +4108,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Cepillo redondo de cuerpo metálico para aspiración detallada en zonas de difícil acceso.",
         "imagen": "/assets/img/productos/pico-redondo-con-cepillo-1778613583922.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/cepillo-redondo-aspiracion/",
+        "storeUrl": "https://tiendanewconcret.com/productos/cepillo-redondo-aspiracion/",
         "specs": [
             {
                 "icono": "◉",
@@ -4148,7 +4148,7 @@ const productos = [
         "subcategoria": "accesorios-aspiradoras",
         "descripcion": "Pico chato para aspiración en ranuras y espacios estrechos.",
         "imagen": "/assets/img/productos/pico-chato-1778613541688.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/pico-chato-para-aspiradora-mc-75-eijsi/",
+        "storeUrl": "https://tiendanewconcret.com/productos/pico-chato-para-aspiradora-mc-75-eijsi/",
         "specs": [
             {
                 "icono": "◉",
@@ -4183,7 +4183,7 @@ const productos = [
         "descripcion": "Velcro autoadhesivo de 100 mm que convierte una base en superficie de fijación para discos resinoides.",
         "imagen": "/assets/img/productos/base-adhesiva-1778611780470.webp",
         "pdfUrl": "/assets/docs/acc-pulidora-1784567086542.pdf",
-        "storeUrl": "https://tiendalonati.com.ar/productos/velcro-auto-adhesivo/",
+        "storeUrl": "https://tiendanewconcret.com/productos/velcro-auto-adhesivo/",
         "visible": true,
         "rutas": [
             {
@@ -4231,7 +4231,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Disco resinoide flexible para distribuir pastas de relleno y compactar la superficie del hormigón.",
         "imagen": "/assets/img/productos/empastinado-1778605511973.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/discos-empastinado/",
+        "storeUrl": "https://tiendanewconcret.com/productos/discos-empastinado/",
         "specs": [
             {
                 "icono": "◉",
@@ -4265,7 +4265,7 @@ const productos = [
         "subcategoria": "accesorios-pulidoras",
         "descripcion": "Interfaz entre el plato de la pulidora y los segmentos metálicos, trapezoidales o circulares.",
         "imagen": "/assets/img/productos/adaptador-1-1778605650302.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/adaptador-universal-para-segmentos-metalicos-ygg07/",
+        "storeUrl": "https://tiendanewconcret.com/productos/adaptador-universal-para-segmentos-metalicos-ygg07/",
         "specs": [
             {
                 "icono": "◉",
@@ -4310,7 +4310,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Base rígida con velcro industrial de alta retención para fijar discos resinoides de 100 mm.",
         "imagen": "/assets/img/productos/base-con-velcro-1778605723104.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/base-con-velcro/",
+        "storeUrl": "https://tiendanewconcret.com/productos/base-con-velcro/",
         "specs": [
             {
                 "icono": "◉",
@@ -4350,7 +4350,7 @@ const productos = [
         "subcategoria": "accesorios-pulidoras",
         "descripcion": "Faldas perimetrales que contienen el polvo alrededor del plato y mejoran la extracción.",
         "imagen": "/assets/img/productos/pollera-pulidora-1778605789155.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/faldas-para-pulidoras/",
+        "storeUrl": "https://tiendanewconcret.com/productos/faldas-para-pulidoras/",
         "specs": [
             {
                 "icono": "◉",
@@ -4393,7 +4393,7 @@ const productos = [
         "subcategoria": "r",
         "descripcion": "Aglutinante líquido que, mezclado con el polvo del pulido, sella fisuras, poros y pequeños huecos.",
         "imagen": "https://acdn.mitiendanube.com/stores/003/469/628/products/restor1-06d0849cb3d57c801617095792871763-1024-1024.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-restor/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-restor/",
         "specs": [
             {
                 "icono": "◉",
@@ -4424,7 +4424,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Densificador de silicatos de sodio que sella, endurece y deja el hormigón a prueba de agua.",
         "imagen": "/assets/img/productos/sodium-5-l-1778605845082.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-sodium/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-sodium/",
         "specs": [
             {
                 "icono": "◉",
@@ -4474,7 +4474,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Densificador líquido de litio que penetra el hormigón, reduce su porosidad y lo endurece sin formar película.",
         "imagen": "/assets/img/productos/litium-5l-1778606771146.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-litium/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-litium/",
         "specs": [
             {
                 "icono": "◉",
@@ -4529,7 +4529,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Hidrorrepelente de alta penetración que impermeabiliza superficies porosas sin alterar su aspecto.",
         "imagen": "/assets/img/productos/lock-5l-1778606821609.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-lock1/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-lock1/",
         "specs": [
             {
                 "icono": "◉",
@@ -4585,7 +4585,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Sellador de alto brillo que forma una micro película resistente sin alterar la textura del piso.",
         "imagen": "/assets/img/productos/max-5l-1778606902219.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/selladores-concret-max/",
+        "storeUrl": "https://tiendanewconcret.com/productos/selladores-concret-max/",
         "specs": [
             {
                 "icono": "◉",
@@ -4656,7 +4656,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Sellador acuoso de terminación satinada que realza el color y facilita la limpieza de superficies cementicias.",
         "imagen": "/assets/img/productos/finish-5l-1778606979003.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-finish/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-finish/",
         "specs": [
             {
                 "icono": "◉",
@@ -4727,7 +4727,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Desengrasante de doble acción y baja espuma para grasas y aceites en pisos de hormigón.",
         "imagen": "/assets/img/productos/concret-d-5-1778606889938.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/concret-d/",
+        "storeUrl": "https://tiendanewconcret.com/productos/concret-d/",
         "specs": [
             {
                 "icono": "◉",
@@ -4793,7 +4793,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Aspiradora industrial de tres motores para sólidos y líquidos, con tanque de acero inoxidable de 60 litros.",
         "imagen": "/assets/img/productos/jb3-1784565356385.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/aspiradora-gala-jb3-7v7t1/",
+        "storeUrl": "https://tiendanewconcret.com/productos/aspiradora-gala-jb3-7v7t1/",
         "specs": [
             {
                 "icono": "◉",
@@ -4859,7 +4859,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Fórmula NC (So+Lo+Fi): Concret Sodium, Lock y Finish endurecen, protegen y dan brillo premium a los pisos de hormigón.",
         "imagen": "/assets/img/productos/kit-nc-5l-sfondo-1784565744336.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/sistema-newconcret/",
+        "storeUrl": "https://tiendanewconcret.com/productos/sistema-newconcret/",
         "specs": [
             {
                 "icono": "◉",
@@ -4893,7 +4893,7 @@ const productos = [
         "subcategoria": "",
         "descripcion": "Paño de microfibra con velcro para mopa, para aplicar densificadores y selladores sin marcas.",
         "imagen": "/assets/img/productos/pao-mopa-4-1784565760881.webp",
-        "storeUrl": "https://tiendalonati.com.ar/productos/pano-de-microfibra/",
+        "storeUrl": "https://tiendanewconcret.com/productos/pano-de-microfibra/",
         "specs": [
             {
                 "icono": "◉",
