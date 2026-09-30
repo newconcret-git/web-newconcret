@@ -993,12 +993,47 @@
     };
 
     // 5. Cookie Consent + Analytics (GDPR / Ley 25.326)
-    // La medición se configura en Google Tag Manager (contenedor GTM-PKMHC975),
-    // que se carga desde el <head> de cada página. Acá no se declara ningún ID
-    // de GA4: el tag vive en GTM y queda gobernado por Consent Mode.
+    // GA4 se carga directamente desde este archivo compartido para que todas las
+    // páginas públicas midan con la misma propiedad. GTM se mantiene disponible
+    // para eventos y etiquetas adicionales, ambos gobernados por Consent Mode.
+    var NC_GA4_ID = 'G-597JQQ0K5C';
 
     function ncGetConsent() { try { return localStorage.getItem('nc_consent'); } catch (e) { return null; } }
     function ncSetConsent(v) { try { localStorage.setItem('nc_consent', v); } catch (e) {} }
+
+    function ncInitGA4() {
+        if (window.__ncGa4On) return;
+        window.__ncGa4On = true;
+
+        window.dataLayer = window.dataLayer || [];
+        var hadGtag = (typeof window.gtag === 'function');
+        if (!hadGtag) {
+            window.gtag = function () { window.dataLayer.push(arguments); };
+            // Fallback para páginas que no tengan el bloque inline de Consent Mode.
+            var c = ncGetConsent();
+            var g = (c === 'all') ? 'granted' : 'denied';
+            window.gtag('consent', 'default', {
+                ad_storage: g,
+                ad_user_data: g,
+                ad_personalization: g,
+                analytics_storage: g,
+                functionality_storage: 'granted',
+                security_storage: 'granted',
+                wait_for_update: 500
+            });
+        }
+
+        if (!document.querySelector('script[data-nc-ga4]')) {
+            var s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(NC_GA4_ID);
+            s.setAttribute('data-nc-ga4', '1');
+            document.head.appendChild(s);
+        }
+
+        window.gtag('js', new Date());
+        window.gtag('config', NC_GA4_ID, { send_page_view: true });
+    }
 
     // Consent Mode: le avisa a GTM qué eligió el visitante. El estado por
     // defecto se declara inline en el <head> de cada página, antes de que
@@ -1043,7 +1078,7 @@
     // viva en el repo: si cambia el dominio de la tienda o el número, se toca
     // este archivo y no la interfaz de Tag Manager.
     var NC_RE_WA = /wa\.link|wa\.me|api\.whatsapp\.com|whatsapp/i;
-    var NC_RE_TIENDA = /tiendalonati\.com\.ar/i;
+    var NC_RE_TIENDA = /tiendanewconcret\.com|tiendalonati\.com\.ar|newconcret\.tiendup\.com/i;
 
     function ncTrackConversiones() {
         if (window.__ncConvOn) return;
@@ -1154,6 +1189,7 @@
     // Execute immediately or on DOM load
     function ncBoot() {
         injectLayout();
+        ncInitGA4();
         // Después del consentimiento: así el botón nace ya corrido si el banner
         // está visible, en lugar de aparecer abajo y saltar un instante después.
         initConsent();
